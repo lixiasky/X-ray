@@ -86,6 +86,8 @@ First developed and open-sourced by Tang Tian on 2025-05-17.
 
 Fun fact: During initial testing, the tool terminated VSCode while the author was installing the Graphviz Interactive Preview plugin — showcasing its real-world detection capabilities (author QwQ).
 
+If you'd like to get in touch, feel free to reach me at lixiasky@protonmail.com — I'm always open to feedback or discussion.
+
 ---
 
 ## Donations
