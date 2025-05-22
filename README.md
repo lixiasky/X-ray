@@ -90,11 +90,16 @@ If you'd like to get in touch, feel free to reach me : lixiasky@protonmail.com â
 
 ---
 
-## Legal Notice
+## Legal Notice 
 
-A provisional patent application has been filed with the United States Patent and Trademark Office (USPTO) for this project under the name of the author. All rights reserved.
+This project includes core techniques that are covered by a provisional patent application filed with the United States Patent and Trademark Office (USPTO) under the name of the author.
 
-This is an independent research work, created and maintained by an individual student without institutional backing.
+All rights related to these patented techniques are explicitly reserved by the author.
+
+While the source code is licensed under the Apache License 2.0, any commercial use, redistribution, or integration of functionalities substantially overlapping with the patented design (including ISO-based full-system comparison, behavior induction, and real-time behavior chain reconstruction) requires separate licensing or authorization from the author.
+
+This is an independent research project created and maintained solely by a student, with no institutional affiliation or corporate backing.
+
 
 ---
 
