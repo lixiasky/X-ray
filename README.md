@@ -90,6 +90,14 @@ If you'd like to get in touch, feel free to reach me : lixiasky@protonmail.com â
 
 ---
 
+## Legal Notice
+
+A provisional patent application has been filed with the United States Patent and Trademark Office (USPTO) for this project under the name of the author. All rights reserved.
+
+This is an independent research work, created and maintained by an individual student without institutional backing.
+
+---
+
 ## Donations
 
 If you appreciate this project, youâ€™re welcome to donate via the author's QR code.  
