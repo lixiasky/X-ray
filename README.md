@@ -2,6 +2,8 @@
 
 This is a high-privilege malware and backdoor behavior chain auditing tool. It compares the current system state with the original ISO image, automatically identifies modified files, performs decoy-based induction, traces behavior chains, exports diagrams, and supports limited process countermeasures.
 
+**Note:** This project is open-source, but some core techniques are covered by a provisional U.S. patent. See [Legal Notice]for details.
+
 ---
 
 ## Quick Start
@@ -90,16 +92,20 @@ If you'd like to get in touch, feel free to reach me : lixiasky@protonmail.com â
 
 ---
 
-## Legal Notice 
+## Legal Notice
 
-This project includes core techniques that are covered by a provisional patent application filed with the United States Patent and Trademark Office (USPTO) under the name of the author.
+This project contains core techniques that are covered by a **provisional patent application** filed by the author with the United States Patent and Trademark Office (USPTO).  
+The author **explicitly reserves all rights related to the patented technologies**.
 
-All rights related to these patented techniques are explicitly reserved by the author.
+Please note: although the **source code** is released under the Apache License 2.0 and may be freely viewed, studied, modified, or used for non-commercial purposes,  
+any **commercial use, redistribution, or integration** of the following patented functionalities **requires prior authorization or licensing from the author**:
 
-While the source code is licensed under the Apache License 2.0, any commercial use, redistribution, or integration of functionalities substantially overlapping with the patented design (including ISO-based full-system comparison, behavior induction, and real-time behavior chain reconstruction) requires separate licensing or authorization from the author.
+- Full-system file integrity comparison based on ISO image snapshots;
+- Decoy-based behavior induction and response monitoring;
+- Real-time construction of behavior chains and diagram export.
 
-This is an independent research project created and maintained solely by a student, with no institutional affiliation or corporate backing.
-
+This is an independent research project created and maintained solely by a student, without any institutional or corporate affiliation.  
+If you are interested in commercial licensing, collaboration, or related discussions, please feel free to reach out to the author.
 
 ---
 
