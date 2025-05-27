@@ -78,7 +78,7 @@ Some of the `failed` and `error` messages in the screenshots are expected: the p
 
 The author is currently a first-year student at a regular university in China, not from a CS background, and self-learning Go and system-level programming. This project was born from their curiosity while studying OS and cybersecurity and is still a work in progress.
 
-This project is open-source with permission-based licensing: anyone is free to fork and modify it without submitting PRs, as long as you **retain the line “First version written by TangTian” in your README**.
+This project is open-source with permission-based licensing: anyone is free to fork and modify it without submitting PRs, as long as you **retain the line “First version written by lixiasky” in your README**.
 
 Please respect this sole requirement and avoid removing the author’s name.
 
