@@ -84,7 +84,7 @@ Please respect this sole requirement and avoid removing the author’s name.
 
 This project is licensed under the Apache License 2.0. See LICENSE for details.
 
-First developed and open-sourced by Tang Tian on 2025-05-17.
+First developed and open-sourced by lixiasky on 2025-05-17.
 
 Fun fact: During initial testing, the tool terminated VSCode while the author was installing the Graphviz Interactive Preview plugin — showcasing its real-world detection capabilities (author QwQ).
 
